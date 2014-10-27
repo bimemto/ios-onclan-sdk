@@ -1,3 +1,10 @@
+=====================
+OnClanSDK help you to connect your user with all the onClan user system
+
+For more information, visit http://developer.appota.com 
+
+=====================
+
 # I. Install SDK
 
 ## 1. Download & unzip the SDK
