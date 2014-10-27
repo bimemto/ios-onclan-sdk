@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3B12A72A-1339-4022-8850-FB622840F98E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OnClanSDKExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4FAC17C648DC6FC86F0E8ABB962A71E1CB8F8E0F</key>
+		<string>github.com:appota/ios-onclan-sdk.git</string>
+		<key>8631DAED174DE4F5C299A2DEDF5EAD044702A6D5</key>
+		<string>git.appota.com:sdks/ios-onclan-sdk.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>OnClanSDK_Test/OnClanSDKExample/OnClanSDKExample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4FAC17C648DC6FC86F0E8ABB962A71E1CB8F8E0F</key>
+		<string>../../../..</string>
+		<key>8631DAED174DE4F5C299A2DEDF5EAD044702A6D5</key>
+		<string>../../../../../ios-onclan-sdk</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:appota/ios-onclan-sdk.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4FAC17C648DC6FC86F0E8ABB962A71E1CB8F8E0F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>8631DAED174DE4F5C299A2DEDF5EAD044702A6D5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ios-onclan-sdk</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FAC17C648DC6FC86F0E8ABB962A71E1CB8F8E0F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>publish</string>
+		</dict>
+	</array>
+</dict>
+</plist>
